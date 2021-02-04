@@ -1,0 +1,19 @@
+{
+  "name": "drum-machine",
+  "version": "1.0.0",
+  "description": "Drum machine on JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kokorushka/drum-machine.git"
+  },
+  "author": "Aleksandra Alekseeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kokorushka/drum-machine/issues"
+  },
+  "homepage": "https://github.com/Kokorushka/drum-machine#readme"
+}
