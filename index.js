@@ -8,11 +8,9 @@ function playSound(e) {
 };
 
 function removeTransition (e) {
-  console.log(e);
   if (e.propertyName !== 'transform') {
     return;
   }
-  console.log(this);
   this.classList.remove('playing');
 };
 window.addEventListener('keydown', playSound);
